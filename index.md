@@ -2,6 +2,7 @@
 Here you can find the skins I've ever played with.
 
 [Download /skins folder (compressed .zip)](https://i.rainbowtaves.ru/skins/skins08082020.zip)
+
 [You can also download each skin individually here.](https://i.rainbowtaves.ru/skins/)
 
 ### This folder contains
