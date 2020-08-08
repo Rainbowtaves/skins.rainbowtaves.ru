@@ -1,9 +1,9 @@
 # Skins - Rainbowtaves
 Here you can find the skins I've ever played with.
 
-[Download /skins folder (compressed .zip)](https://i.rainbowtaves.ru/skins/skins08082020.zip)
+[Download /skins folder (compressed .zip)](https://i.rainbowtaves.ru/skins/skins08082020.zip) | [MEGA.nz Mirror](https://mega.nz/file/cR1FBZYR#pSZp7w4lPOqc24-zye9UMkMVCqKss6wRatri35gT2zQ)
 
-[You can also download each skin individually here.](https://i.rainbowtaves.ru/skins/)
+[You can also download each skin individually here.](https://i.rainbowtaves.ru/skins/) | [MEGA.nz Mirror](https://mega.nz/folder/VI8z0L6b#lIjEneJTHLvWc0jKbQsftg)
 
 ### This folder contains
 1. NEW GAME!! (Rafis HDDT Edit)
