@@ -3,7 +3,7 @@
 
 Here you can find the skins I've ever played with.
 
-[Download /skins folder (compressed .zip)](https://i.rainbowtaves.ru/skins/skins08082020.zip) | [MEGA.nz Mirror](https://mega.nz/file/cR1FBZYR#pSZp7w4lPOqc24-zye9UMkMVCqKss6wRatri35gT2zQ)
+[Download /skins folder (compressed .zip)](https://i.rainbowtaves.ru/skins/skins.zip) | [MEGA.nz Mirror](https://mega.nz/file/cR1FBZYR#pSZp7w4lPOqc24-zye9UMkMVCqKss6wRatri35gT2zQ)
 
 [You can also download each skin individually here.](https://i.rainbowtaves.ru/skins/) | [MEGA.nz Mirror](https://mega.nz/folder/VI8z0L6b#lIjEneJTHLvWc0jKbQsftg)
 
@@ -35,5 +35,8 @@ Difference is only in hitcircle colors
 
 9. Sotarks Remake
 ![Screenshot 9](https://i.rainbowtaves.ru/ENCCV0.png)
+
+10. Rainbowtaves' Shit
+![Screenshot 10](https://i.rainbowtaves.ru/ajTieS.png)
 
 # If you didn't find some skin, just let me know. Write me in [osu!DMs](https://osu.ppy.sh/u/10079847) or in [Telegram](https://t.me/rainbowtaves).
