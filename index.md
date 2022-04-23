@@ -2,44 +2,35 @@
 [<< Back](https://rainbowtaves.ru)
 
 Here you can find the skins I've ever played with.
+(This list is kinda *uncompleted*. Maybe I'll update it soon)
 
-[Download /skins folder (compressed .zip)](https://i.rainbowtaves.ru/skins/skins.zip) (Outdated, use link below, i'll update it soon)
+[Combined folder](https://i.rainbowtaves.ru/skins/) 
 
-[You can also download each skin individually here.](https://i.rainbowtaves.ru/skins/) 
+### Skins listing
+1. [BlooMoon (lKepler edit) _**CURRENT**_"](https://i.rainbowtaves.ru/skins/-%20%e3%80%8eKepMoon%e3%80%8f%20-.osk)
+![Screenshot1](https://i.rainbowtaves.ru/Mj9YyU.png)
 
-### This folder contains
-1. BlooMoon (lKepler edit)
-![Screenshot11](https://i.rainbowtaves.ru/Mj9YyU.png)
+2. [nanoya ganyu monko](https://i.rainbowtaves.ru/skins/-%20!%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20nanoya%20ganyu%20monko.osk)
+![Screenshot2](https://i.rainbowtaves.ru/qB0Mkq.png)
 
-2. NEW GAME!! (Rafis HDDT Edit)
-![Screenshot 1](https://i.rainbowtaves.ru/AFOJYk.png)
+3. [Aristia (Varvalian skin)](https://i.rainbowtaves.ru/skins/Aristia(Edit).osk)
+![Screenshot3](https://i.rainbowtaves.ru/pqRTLh.png)
 
-3. New Noel skin (BTMC & Rainbowtaves Edit)
-Difference is only in hitcircle colors
-![Screenshot 2](https://i.rainbowtaves.ru/23lJh4.png)
+4. [[CK] Bacon boi 1.0](https://i.rainbowtaves.ru/skins/-%20%20%20%20%20%20%20%20%20%e3%80%8aCK%e3%80%8b%20Bacon%20boi%201.0.osk)
+![Screenshot4](https://i.rainbowtaves.ru/tMl3f4.png)
 
-4. Aristia
-![Screenshot 3](https://i.rainbowtaves.ru/sCUMjU.png)
+5. [baquaCREZZ](https://i.rainbowtaves.ru/skins/baquaCREZZ.osk)
+![Screenshot5](https://i.rainbowtaves.ru/8iXaZL.png)
 
-5. Seoul v9 [Bullet4fun Edit]
-![Screenshot 4](https://i.rainbowtaves.ru/MTM8lO.png)
+6. [YUGEN Final](https://i.rainbowtaves.ru/skins/-%20YUGEN%20FINAL%20-%20Widescreen.osk)
+![Screenshot6](https://i.rainbowtaves.ru/6f1xC7.png)
 
-6. Nanamori
-![Screenshot 5](https://i.rainbowtaves.ru/6DrZQY.png)
+7. [Senko-san Hideru](https://i.rainbowtaves.ru/skins/-+Senko-san-Hideru-+.osk)
+![Screenshot7](https://i.rainbowtaves.ru/2CjAfG.png)
 
-7. Senko-San Hideru
-![Screenshot 6](https://i.rainbowtaves.ru/2CjAfG.png)
+8. [Rohulk 4.0](https://i.rainbowtaves.ru/skins/Rohulk%204.0.osk)
+![Screenshot8](https://i.rainbowtaves.ru/66oeS7.png)
 
-8. Gasha Singletap
-![Screenshot 7](https://i.rainbowtaves.ru/C5QCbN.png)
+9. [Seoul v9 (Bullet4fun edit)](https://i.rainbowtaves.ru/skins/-%20Seoul%20v9%20%5bModify%5d.osk)
+![Screenshot9](https://camo.githubusercontent.com/8392366ea96859b1650a2d2a0a4314d5579a0674cbd38e0c53f9627f5a68c604/68747470733a2f2f692e696d6775722e636f6d2f31726761714f442e706e67)
 
-9. Gesugao
-![Screenshot 8](https://i.rainbowtaves.ru/EL13eB.png)
-
-10. Sotarks Remake
-![Screenshot 9](https://i.rainbowtaves.ru/ENCCV0.png)
-
-11. Rainbowtaves' Shit
-![Screenshot 10](https://i.rainbowtaves.ru/ajTieS.png)
-
-# If you didn't find some skin, just let me know. Write me in [osu!DMs](https://osu.ppy.sh/u/10079847) or in [Telegram](https://t.me/rainbowtaves).
